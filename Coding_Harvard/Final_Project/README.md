@@ -2,7 +2,7 @@
 
 Hello, today I will talk about my project which is a quiz and a game at the same time so you will need both brains and luck :smile:
 
-## Video URL
+## Video URL :smile:
 Video link here --> <https://youtu.be/GW9ptH_WOeI>
 
 ## My Projects Description
