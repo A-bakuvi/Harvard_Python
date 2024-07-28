@@ -1,6 +1,4 @@
-import pytest
 from project import determine_winner, display_scores
-
 
 def test_determine_winner():
     determine_winner("scissors", "paper") == "You win!"
